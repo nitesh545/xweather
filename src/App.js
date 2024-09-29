@@ -45,7 +45,7 @@ function App() {
 				</button>
 			</Box>
 			{
-				!searching ? (<p>Loading...</p>) : (
+				!searching ? (<p>Loading data...</p>) : (
 
 					<div className='weather-cards'>
 						<div className='weather-card'>
